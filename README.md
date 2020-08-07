@@ -1,7 +1,7 @@
 ## Hi there, I'm Ryan 👋
 
 ### I'm a Husband, Father, and Developer!
-- I’m currently working on a riddle app and my [website][website]!
+- I’m currently working on a riddle app and my website!
 - I’m currently learning everything 🤣
 - I’m always looking to collaborate with other content creators
 - 2020 Goals: Contribute more to Open Source projects
@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Coming Soon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<!-- <img align="left" alt="Coming Soon" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> -->
 [<img align="left" alt="Ryan Harley | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Ryan Harley | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
@@ -29,7 +29,5 @@
 
 <br />
 
-[website]: 
 [twitter]: https://twitter.com/ryaharley_dev
-[youtube]: 
 [linkedin]: https://linkedin.com/in/ryanharley
