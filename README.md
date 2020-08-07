@@ -29,5 +29,5 @@
 
 <br />
 
-[twitter]: https://twitter.com/ryaharley_dev
+[twitter]: https://twitter.com/rharley_dev
 [linkedin]: https://linkedin.com/in/ryanharley
