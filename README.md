@@ -1,10 +1,10 @@
 ## Hi there, I'm Ryan 👋
 
 ### I'm a Husband, Father, and Developer!
-- I’m currently working on a riddle app and my website!
+- I’m currently working on a riddle app and my website.
 - I’m currently learning everything!
-- I’m always looking to collaborate with other content creators
-- 2020 Goals: Contribute more to Open Source projects
+- I’m always looking to collaborate with other content creators.
+- 2020 Goals: To test out other coding languages.
 - Fun fact: I love to play chess and snowboard when I can!
 
 ### Connect with me:
