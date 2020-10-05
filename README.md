@@ -1,7 +1,7 @@
 ## Hi there, I'm Ryan 👋
 
 ### I'm a Husband, Father, and Developer!
-- I’m currently working on a riddle app and my website.
+- I’m currently working on a news API with user auth and a bug tracker project.
 - I’m currently learning everything!
 - I’m always looking to collaborate with other content creators.
 - 2020 Goals: To test out other coding languages.
